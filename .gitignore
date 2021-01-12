@@ -1,4 +1,4 @@
 .idea
 *.class
-/out/production/Minefield/model
-/out/production/Minefield/view
+/out/production/Minefield/model/*
+/out/production/Minefield/view/*
